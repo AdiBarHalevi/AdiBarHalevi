@@ -1,4 +1,4 @@
-# Hi there, I'm Adi Bar-Halevi 👋
+# Hi there, I'm Adi Bar-Halevi 👋 - 
 
 **Platform Engineer @ [Appwrite](https://appwrite.io)** | Full-Stack Software Engineer
 
