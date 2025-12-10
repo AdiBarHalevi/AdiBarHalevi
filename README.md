@@ -41,8 +41,4 @@ Full-stack engineer passionate about building scalable and robust solutions. Kno
 - 📧 Email: [adibar141@gmail.com](mailto:adibar141@gmail.com)
 - 💼 LinkedIn: [Connect with me](https://linkedin.com/in/adibar-halevi)
 
----
 
-*"Building scalable solutions, one commit at a time."*
-
-# AdiBarHalevi
