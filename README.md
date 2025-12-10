@@ -36,12 +36,6 @@ Full-stack engineer passionate about building scalable and robust solutions. Kno
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adibar-halevi&show_icons=true&theme=default&hide_border=true&bg_color=fff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adibar-halevi&layout=compact&theme=default&hide_border=true&bg_color=fff)
-
 ## 🔗 Connect With Me
 
 - 📧 Email: [adibar141@gmail.com](mailto:adibar141@gmail.com)
