@@ -35,28 +35,6 @@ Full-stack engineer passionate about building scalable and robust solutions. Kno
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
-## 💼 Professional Experience
-
-### Platform Engineer | Appwrite | Present
-Building developer tools and platform infrastructure to empower developers worldwide.
-
-### Software Engineer | uShip | Jul 2025 – Present
-- Led the integration of i18n support with Phrase translation service, improving internationalization workflow
-- Introduced and implemented integration and end-to-end testing using Cypress and Playwright, dramatically increasing test coverage
-- Collaborated in frontend development with Next.js and Material UI, focusing on performance and scalability
-- Contributed to CI/CD pipelines with GitHub Actions and ensured smooth deployment processes
-
-### Full-Stack Engineer | 6Lock | Jan 2025 – Jun 2025
-- Designed and implemented end-to-end testing frameworks, improving release reliability
-- Enhanced system architecture to be cloud-based, improving scalability and deployment speed
-- Worked across the stack using Next.js, Node.js, and AWS for feature delivery
-
-### Software Engineer | Liblab | 2021 – 2024
-- Early employee and key contributor on the Services Team, building core API, web app, and CLI products
-- Developed backend services in Nest.js and frontend interfaces in Next.js
-- Implemented CI/CD pipelines with GitHub and managed deployments on AWS
-- Integrated multiple projects into a cohesive product ecosystem
-- Built and maintained tests with Cypress and Jest; used Prisma with PostgreSQL for backend data management
 
 ## 📊 GitHub Stats
 
@@ -68,7 +46,6 @@ Building developer tools and platform infrastructure to empower developers world
 
 - 📧 Email: [adibar141@gmail.com](mailto:adibar141@gmail.com)
 - 💼 LinkedIn: [Connect with me](https://linkedin.com/in/adibar-halevi)
-- 🌐 Website: [Coming soon]
 
 ---
 
