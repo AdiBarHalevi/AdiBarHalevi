@@ -3,7 +3,6 @@
 **Platform Engineer @ [Appwrite](https://appwrite.io)** | Full-Stack Software Engineer
 
 📍 Austin, TX | 📧 adi@appwrite.io 
-
 ---
 
 ## About Me
