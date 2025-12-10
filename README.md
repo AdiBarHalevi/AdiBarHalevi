@@ -2,7 +2,7 @@
 
 **Platform Engineer @ [Appwrite](https://appwrite.io)** | Full-Stack Software Engineer
 
-📍 Austin, TX | 📧 adibar141@gmail.com | 📱 737-990-8880
+📍 Austin, TX | 📧 adi@appwrite.io 
 
 ---
 
