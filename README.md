@@ -8,7 +8,9 @@
 
 ## About Me
 
-Full-stack engineer passionate about building scalable and robust solutions. Known for strong ownership and end-to-end delivery — from feature design and implementation to CI/CD and testing. Experienced with both frontend and backend development using modern frameworks and AWS infrastructure, delivering high-quality, tested, and maintainable code.
+Full-stack engineer passionate about building scalable and robust solutions. 
+Known for strong ownership and end-to-end delivery — from feature design and implementation to CI/CD and testing. 
+Experienced with both frontend and backend development using modern frameworks and AWS infrastructure, delivering high-quality, tested, and maintainable code.
 
 ## 🛠️ Tech Stack
 
