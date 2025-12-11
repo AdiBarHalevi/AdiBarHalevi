@@ -1,6 +1,6 @@
 # Hi there, I'm Adi Bar-Halevi 👋
 
-**Platform Engineer @ [Appwrite](https://appwrite.io)** | Full-Stack Software Engineer
+**Platform Engineer [@Appwrite](https://appwrite.io)** | Full-Stack Software Engineer
 
 📍 Austin, TX | 📧 adi@appwrite.io 
 
