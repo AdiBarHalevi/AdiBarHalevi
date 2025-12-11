@@ -20,6 +20,7 @@ Full-stack engineer passionate about building scalable and robust solutions. Kno
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 ### Backend
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -38,7 +39,7 @@ Full-stack engineer passionate about building scalable and robust solutions. Kno
 
 ## 🔗 Connect With Me
 
-- 📧 Email: [adibar141@gmail.com](mailto:adibar141@gmail.com)
+- 📧 Email: [adi@appwrite.io](mailto:adi@appwrite.io)
 - 💼 LinkedIn: [Connect with me](https://linkedin.com/in/adibar-halevi)
 
 
